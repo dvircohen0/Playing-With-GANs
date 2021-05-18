@@ -14,13 +14,16 @@ Links to Jupiter Notbooks viewer:
 - [Coupled GAN (CoGAN) implementation in Pytorch on celebs dataset](https://nbviewer.jupyter.org/github/dvircohen0/Playing-With-GANs/blob/main/CoGAN_pytorch.ipynb) \
 ![הורדה (19)](https://user-images.githubusercontent.com/61738534/118640143-4fd7cf00-b7e1-11eb-933d-152464fccf11.png)
 
-- [Decision tree](https://nbviewer.jupyter.org/github/dvircohen0/Playing-With-GANs/blob/main/DCGAN-Pokemon) \
-![הורדה (12)](https://user-images.githubusercontent.com/61738534/118113551-1e30c380-b3ef-11eb-8cc1-895871b91179.png)
-- [Decision tree](https://nbviewer.jupyter.org/github/dvircohen0/Playing-With-GANs/blob/main/DCGAN_cats.ipynb) \
-![הורדה (12)](https://user-images.githubusercontent.com/61738534/118113551-1e30c380-b3ef-11eb-8cc1-895871b91179.png)
-- [Decision tree](https://nbviewer.jupyter.org/github/dvircohen0/Playing-With-GANs/blob/main/GAN_tf_mnist.ipynb) \
-![הורדה (12)](https://user-images.githubusercontent.com/61738534/118113551-1e30c380-b3ef-11eb-8cc1-895871b91179.png)
-- [Decision tree](https://nbviewer.jupyter.org/github/dvircohen0/Playing-With-GANs/blob/main/SRGAN.ipynb) \
-![הורדה (12)](https://user-images.githubusercontent.com/61738534/118113551-1e30c380-b3ef-11eb-8cc1-895871b91179.png)
-- [Decision tree](https://nbviewer.jupyter.org/github/dvircohen0/Playing-With-GANs/blob/main/pokemon_DCGAN.ipynb) \
-![הורדה (12)](https://user-images.githubusercontent.com/61738534/118113551-1e30c380-b3ef-11eb-8cc1-895871b91179.png)
+- [Deep Convolutional GAN (DCGAN) implementation in Pytorch on cats dataset](https://nbviewer.jupyter.org/github/dvircohen0/Playing-With-GANs/blob/main/DCGAN_cats.ipynb) \
+![הורדה (20)](https://user-images.githubusercontent.com/61738534/118640565-ca085380-b7e1-11eb-9634-ca5ce2a520f1.png)
+
+- [Deep Convolutional GAN (DCGAN) implementation in TensorFlow on Mnist dataset](https://nbviewer.jupyter.org/github/dvircohen0/Playing-With-GANs/blob/main/GAN_tf_mnist.ipynb) \
+![הורדה (21)](https://user-images.githubusercontent.com/61738534/118640738-01770000-b7e2-11eb-86ac-3e624520be1e.png)
+
+- [Super Resolution GAN (SRGAN) implementation in Pytorch](https://nbviewer.jupyter.org/github/dvircohen0/Playing-With-GANs/blob/main/SRGAN.ipynb) \
+![הורדה (22)](https://user-images.githubusercontent.com/61738534/118641000-4bf87c80-b7e2-11eb-8141-efdea0aaa787.png)
+
+- [Deep Convolutional GAN (DCGAN) implementation in Pytorch on Pokemon dataset](https://nbviewer.jupyter.org/github/dvircohen0/Playing-With-GANs/blob/main/pokemon_DCGAN.ipynb) \
+![הורדה (23)](https://user-images.githubusercontent.com/61738534/118641301-a7c30580-b7e2-11eb-96f2-6fedce755dae.png)
+
+
