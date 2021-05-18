@@ -11,8 +11,9 @@ Links to Jupiter Notbooks viewer:
 - [Conditional GAN (CGAN) implementation in TensorFlow on Fashion-mnist dataset](https://nbviewer.jupyter.org/github/dvircohen0/Playing-With-GANs/blob/main/CGAN_tf_fashion_mnist.ipynb) \
 ![הורדה (18)](https://user-images.githubusercontent.com/61738534/118639751-eb1c7480-b7e0-11eb-8848-02b8c1b196c4.png)
 
-- [Decision tree](https://nbviewer.jupyter.org/github/dvircohen0/Playing-With-GANs/blob/main/CoGAN_pytorch.ipynb) \
-![הורדה (12)](https://user-images.githubusercontent.com/61738534/118113551-1e30c380-b3ef-11eb-8cc1-895871b91179.png)
+- [Coupled GAN (CoGAN) implementation in Pytorch on celebs dataset](https://nbviewer.jupyter.org/github/dvircohen0/Playing-With-GANs/blob/main/CoGAN_pytorch.ipynb) \
+![הורדה (19)](https://user-images.githubusercontent.com/61738534/118640143-4fd7cf00-b7e1-11eb-933d-152464fccf11.png)
+
 - [Decision tree](https://nbviewer.jupyter.org/github/dvircohen0/Playing-With-GANs/blob/main/DCGAN-Pokemon) \
 ![הורדה (12)](https://user-images.githubusercontent.com/61738534/118113551-1e30c380-b3ef-11eb-8cc1-895871b91179.png)
 - [Decision tree](https://nbviewer.jupyter.org/github/dvircohen0/Playing-With-GANs/blob/main/DCGAN_cats.ipynb) \
